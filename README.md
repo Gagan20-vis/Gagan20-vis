@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/gagan-vishwakarma/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://leetcode.com/Gagan_vk_/">
+      <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -28,11 +28,11 @@ Hii,My name is Gagan, I am a Full Stack Developer <img src="https://media.giphy.
 I'm from India, living in Sehore and currently studying Computer Science.
 - :telescope: I am currently learning Development in java
 
-- :seedling: I also post on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :seedling: I also post on [![Linkedin Badge](https://img.shields.io/badge/-Gagan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com//in/gagan-vishwakarma)
 
-- :zap: I also good in Data Structure ans Algorithms.
+- :zap: I also good in Data Structure ans Algorithms. [![Leetcode Badge](https://img.shields.io/badge/-Gagan-orange?style=flat&logo=Leetcode&logoColor=black)](https://www.leetcode.com/in/Gagan_vk_)
 
-- :mailbox:You can reach me at gaganvishwakarma46@gmail.com
+- :mailbox:You can reach me at gaganvishwakarma46@gmail.com [![Mail Badge](https://img.shields.io/badge/-Gagan-white?style=flat&logo=Gmail&logoColor=red)](gaganvishwakarma46@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
