@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Gagan20-vis&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hello Folks!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -24,14 +24,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Hii,My name is Gagan, I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm from India, living in Sehore and currently studying Computer Science.
+- :telescope: I am currently learning Development in java
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I also post on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I also good in Data Structure ans Algorithms.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:You can reach me at gaganvishwakarma46@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
