@@ -5,10 +5,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Gagan_vk_/">
-      <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="resume.pdf">
+      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=blogger&logoColor=black" alt="Resume"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Gagan20-vis&style=flat-square&color=blue" alt=""/>
