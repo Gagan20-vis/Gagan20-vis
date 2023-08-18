@@ -7,7 +7,7 @@
     <a href="https://leetcode.com/Gagan_vk_/">
       <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="Gagan's Resume.pdf">
+    <a href="Gagan Resume.pdf">
       <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=blogger&logoColor=black" alt="Resume"/>
     </a>
   </div>
