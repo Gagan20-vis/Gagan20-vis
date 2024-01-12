@@ -62,7 +62,8 @@ I'm from India, living in Sehore and currently studying Computer Science.
 
 ### :fire: My Stats :
 <div>
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan20-vis&show_icons=true&locale=en&layout=compact"alt="gagan20-vis" />
-  &nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=gagan20-vis&show_icons=true&locale=en"alt="gagan20-vis" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan20-vis&" alt="gagan20-vis" />
+  <img align="justify"src="https://github-readme-stats.vercel.app/api?username=gagan20-vis&show_icons=true&locale=en&theme=radical"alt="gagan20-vis" />
+</div>
+<div>
+  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan20-vis&langs_count=10&theme=radical"alt="gagan20-vis" />
 </div>
